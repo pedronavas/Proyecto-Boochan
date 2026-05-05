@@ -34,4 +34,5 @@
 
 <hr style="border: none; height: 5px; background: linear-gradient(to left, rgb(255, 215, 0), rgb(255, 69, 0), transparent); margin-bottom: 20px;">
 
+.
 Para ir a la siguiente Fase Click aqui →→ [[Fase 2 LINK (Gestión Remota e Híbrida de Administración (SOR + SR))]] 
