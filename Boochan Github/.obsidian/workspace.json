@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Boochan Proyectos Github/Boochan 2/Fases/Manual BoochanV2.md",
+                "file": "Boochan Proyectos Github/Boochan 1/Enlace Youtube Boochan 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Manual BoochanV2"
+              "title": "Enlace Youtube Boochan 1"
             }
           }
         ]
@@ -182,12 +182,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85537bcc4f5faa67",
+  "active": "2c259abeef24dcfd",
   "lastOpenFiles": [
+    "Boochan Proyectos Github/Boochan 2/Fases/Manual BoochanV2.md",
     "Boochan Proyectos Github/Boochan 2/Enlace Youtube Boochan 2.md",
-    "Boochan Proyectos Github/Boochan 3/Fases/Tunel Conexion con AD - Fase 1.md",
-    "Boochan Proyectos Github/Boochan 3/Enlace Youtube Boochan 3.md",
     "Boochan Proyectos Github/Boochan 1/Enlace Youtube Boochan 1.md",
+    "Boochan Proyectos Github/Boochan 3/Enlace Youtube Boochan 3.md",
+    "Boochan Proyectos Github/Boochan 3/Fases/Tunel Conexion con AD - Fase 1.md",
     "Boochan Proyectos Github/Boochan 1/Fases/Fase 1 PIKACHU (Aprovisionamiento, Particionado y Red Estática).md",
     "Boochan Proyectos Github/Boochan 3/Imagenes",
     "Boochan Proyectos Github/Boochan 3/Fases",
@@ -211,7 +212,6 @@
     "Boochan Proyectos Github/Boochan 1/Imagenes/articuno.webp",
     "Boochan Proyectos Github/Boochan 1/Imagenes/aplicacion.png",
     "Boochan Proyectos Github/Boochan 3/Imagenes/softether.jpeg",
-    "Boochan Proyectos Github/Boochan 2/Fases/Manual BoochanV2.md",
     "Boochan Proyectos Github/Boochan 1/Fases/Fase 9 DARK SOULS (Auditoría de Seguridad y Pentesting (SI)).md",
     "Boochan Proyectos Github/Boochan 1/Fases/Fase 7 PHOENIX (Auditoría de Seguridad y Pentesting (SI)).md",
     "Boochan Proyectos Github/Boochan 1/Fases/Fase 6 BATMAN (Hardening y Blindaje de Seguridad (SI)).md",
